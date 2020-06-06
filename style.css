@@ -6,13 +6,27 @@ body {
     padding: 0;
 }
 p {
-    color: violet;
+    color: white;
     font-size: 20;
     padding: 20px;
 }
+section {
+    background: black;
+    color: gray;
+    padding: 20px;
+    display: flex:
+}
 header {
     background: black;
+    background-image: url("images/Tim.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
     padding: 20px;
+    height: 300px;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
 }
 .feature-1 {
     background: white;
@@ -26,7 +40,7 @@ header {
     color: white;
 }
 div {
-    background: pink;
+    background: black;
     margin: auto;
     width: 100%;
 }
@@ -37,14 +51,20 @@ ul {
 }
 li {
     display: inline-block;
-    background-color: gray;
+    background-color: white;
     border-radius: 3px;
     padding: 2px;
     margin-right: 20px;
 }
 li:hover {
-    background-color: violet;
+    background-color: gold;
     text-decoration: underline;
+}
+h1 {
+    color: rgb(255, 99, 71);
+}
+h2 {
+    color: rgb(255, 99, 71);
 }
 a {
     text-decoration: none;
@@ -53,4 +73,5 @@ footer {
     background: black;
     color: white;
     padding: 10px;
+    text-align: center;
 }
