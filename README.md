@@ -1,2 +1,2 @@
-# nexustech.com
-Nexus Technologies Ph Official Website
+# diyelectronicsph.com
+DIY Electronics Ph Official Website
