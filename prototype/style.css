@@ -1,0 +1,26 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: ghostwhite;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.box {
+  width: 100%;
+  height: auto;
+  background-image: url("./diylogo.svg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bow:hover {
+  background-size: 200%;
+}
