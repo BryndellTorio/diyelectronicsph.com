@@ -7,3 +7,12 @@ Task to do:
 
 - work on the logo.
 - figureout why only root pic files work. Use pics inside a folder.
+
+November 16, 2020
+
+Bugs:
+ - html can't find the pics inside a folder.
+ 
+ New Development: 
+ - Changing the style of the website into a simple one. White and green theme.
+ - Spaces are the key!
